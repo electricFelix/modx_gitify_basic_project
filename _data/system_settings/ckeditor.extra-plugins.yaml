@@ -1,0 +1,4 @@
+key: ckeditor.extra_plugins
+value: 'html5video,nbsp'
+namespace: ckeditor
+area: general

@@ -1,0 +1,4 @@
+key: seosuite.blocked_words
+value: 'admin,insert,select,delete,union,update,whatsapp,debug,manager'
+namespace: seosuite
+area: seosuite

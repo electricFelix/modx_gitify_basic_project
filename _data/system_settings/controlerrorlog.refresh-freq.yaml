@@ -1,0 +1,5 @@
+key: controlerrorlog.refresh_freq
+value: '60'
+xtype: numberfield
+namespace: controlerrorlog
+area: controlerrorlog.main

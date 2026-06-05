@@ -1,0 +1,4 @@
+key: formit.recaptcha_min_score
+value: '0.5'
+namespace: formit
+area: formit_recaptcha

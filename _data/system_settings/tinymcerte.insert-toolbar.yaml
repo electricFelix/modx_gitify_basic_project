@@ -1,0 +1,4 @@
+key: tinymcerte.insert_toolbar
+value: 'image media quicktable modxlink modai_generate'
+namespace: tinymcerte
+area: tinymcerte.toolbar

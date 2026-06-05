@@ -1,0 +1,5 @@
+key: seosuite.sitemap.babel.add_alternate_links
+value: '1'
+xtype: combo-boolean
+namespace: seosuite
+area: seosuite_sitemap

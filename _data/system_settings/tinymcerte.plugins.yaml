@@ -1,0 +1,4 @@
+key: tinymcerte.plugins
+value: 'advlist autoresize autolink lists charmap preview anchor visualblocks searchreplace code fullscreen insertdatetime media table image quickbars modxlink modai'
+namespace: tinymcerte
+area: tinymcerte.default

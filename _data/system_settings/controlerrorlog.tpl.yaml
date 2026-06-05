@@ -1,0 +1,4 @@
+key: controlerrorlog.tpl
+value: error_table.tpl
+namespace: controlerrorlog
+area: controlerrorlog.main

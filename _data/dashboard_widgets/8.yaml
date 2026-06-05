@@ -1,0 +1,10 @@
+id: 8
+name: seosuite.widget
+description: seosuite.widget_desc
+type: file
+content: '[[++core_path]]components/seosuite/elements/widgets/seosuite.widget.php'
+properties: '[]'
+namespace: seosuite
+lexicon: 'seosuite:default'
+name_trans: 'SEO Suite'
+description_trans: 'SEO Suite dashboard widget'

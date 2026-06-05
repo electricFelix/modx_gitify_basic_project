@@ -1,0 +1,4 @@
+key: emailqueue_limit
+value: '50'
+namespace: emailqueue
+area: emailqueue_main

@@ -1,0 +1,3 @@
+key: session_handler_class
+value: MODX\Revolution\modSessionHandler
+area: session

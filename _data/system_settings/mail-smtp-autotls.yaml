@@ -1,0 +1,4 @@
+key: mail_smtp_autotls
+value: '1'
+xtype: combo-boolean
+area: mail

@@ -1,0 +1,4 @@
+key: tinymcerte.enable_link_aria
+xtype: combo-boolean
+namespace: tinymcerte
+area: tinymcerte.default

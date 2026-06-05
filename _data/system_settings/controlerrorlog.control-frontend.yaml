@@ -1,0 +1,4 @@
+key: controlerrorlog.control_frontend
+xtype: combo-boolean
+namespace: controlerrorlog
+area: controlerrorlog.main

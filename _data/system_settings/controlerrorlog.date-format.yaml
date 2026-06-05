@@ -1,0 +1,4 @@
+key: controlerrorlog.date_format
+value: '%Y-%m-%d'
+namespace: controlerrorlog
+area: controlerrorlog.main

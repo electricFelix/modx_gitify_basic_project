@@ -1,0 +1,5 @@
+key: versionx.enable.resources
+value: '1'
+xtype: modx-combo-boolean
+namespace: versionx
+area: Enable

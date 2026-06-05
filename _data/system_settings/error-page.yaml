@@ -1,0 +1,4 @@
+key: error_page
+value: '1'
+xtype: numberfield
+area: site

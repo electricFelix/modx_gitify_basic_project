@@ -1,0 +1,4 @@
+key: tinymcerte.max_height
+value: '500'
+namespace: tinymcerte
+area: tinymcerte.default

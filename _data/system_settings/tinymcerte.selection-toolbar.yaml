@@ -1,0 +1,4 @@
+key: tinymcerte.selection_toolbar
+value: 'bold italic underline | modxlink | modai_enhance'
+namespace: tinymcerte
+area: tinymcerte.toolbar

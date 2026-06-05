@@ -1,0 +1,5 @@
+key: versionx.enable.templates
+value: '1'
+xtype: modx-combo-boolean
+namespace: versionx
+area: Enable

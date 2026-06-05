@@ -1,0 +1,5 @@
+key: seosuite.placeholder_plugin_enabled
+value: '1'
+xtype: combo-boolean
+namespace: seosuite
+area: seosuite

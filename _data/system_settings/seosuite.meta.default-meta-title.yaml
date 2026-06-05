@@ -1,0 +1,4 @@
+key: seosuite.meta.default_meta_title
+value: '[[+longtitle]] | [[++site_name]]'
+namespace: seosuite
+area: seosuite_tab_meta

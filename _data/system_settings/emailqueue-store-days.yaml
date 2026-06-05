@@ -1,0 +1,4 @@
+key: emailqueue_store_days
+value: '30'
+namespace: emailqueue
+area: emailqueue_main

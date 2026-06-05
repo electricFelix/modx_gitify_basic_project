@@ -1,0 +1,4 @@
+key: mail_smtp_timeout
+value: '10'
+xtype: numberfield
+area: mail

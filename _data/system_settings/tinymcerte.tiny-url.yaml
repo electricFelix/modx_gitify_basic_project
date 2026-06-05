@@ -1,0 +1,4 @@
+key: tinymcerte.tiny_url
+value: '{tinymcerte.assets_url}mgr/tinymce/tinymce.min.js'
+namespace: tinymcerte
+area: tinymcerte.default

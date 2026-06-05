@@ -1,0 +1,5 @@
+key: controlerrorlog.allow_copy_deletion
+value: '1'
+xtype: combo-boolean
+namespace: controlerrorlog
+area: controlerrorlog.main

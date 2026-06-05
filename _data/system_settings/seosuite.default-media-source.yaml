@@ -1,0 +1,4 @@
+key: seosuite.default_media_source
+xtype: modx-combo-source
+namespace: seosuite
+area: seosuite

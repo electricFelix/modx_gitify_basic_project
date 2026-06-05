@@ -1,0 +1,4 @@
+key: seosuite.default_redirect_type
+value: 'HTTP/1.1 301 Moved Permanently'
+namespace: seosuite
+area: seosuite

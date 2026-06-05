@@ -1,0 +1,4 @@
+key: tinymcerte.image_toolbar
+value: 'alignleft aligncenter alignright | modxlink | image'
+namespace: tinymcerte
+area: tinymcerte.toolbar

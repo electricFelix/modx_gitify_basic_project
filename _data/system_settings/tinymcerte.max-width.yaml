@@ -1,0 +1,4 @@
+key: tinymcerte.max_width
+value: '0'
+namespace: tinymcerte
+area: tinymcerte.default

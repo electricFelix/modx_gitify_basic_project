@@ -1,0 +1,4 @@
+key: blocked_minutes
+value: '60'
+xtype: numberfield
+area: authentication

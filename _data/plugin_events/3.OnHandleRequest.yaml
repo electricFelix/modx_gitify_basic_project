@@ -1,0 +1,3 @@
+pluginid: 3
+event: OnHandleRequest
+priority: 1

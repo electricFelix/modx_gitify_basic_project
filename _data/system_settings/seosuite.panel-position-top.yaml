@@ -1,0 +1,5 @@
+key: seosuite.panel_position_top
+value: '0'
+xtype: combo-boolean
+namespace: seosuite
+area: seosuite_tab_meta

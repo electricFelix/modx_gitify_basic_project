@@ -1,0 +1,5 @@
+key: versionx.formtabs.template
+value: '1'
+xtype: modx-combo-boolean
+namespace: versionx
+area: 'Form Tabs'

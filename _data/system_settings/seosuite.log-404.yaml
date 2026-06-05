@@ -1,0 +1,5 @@
+key: seosuite.log_404
+value: '1'
+xtype: combo-boolean
+namespace: seosuite
+area: seosuite

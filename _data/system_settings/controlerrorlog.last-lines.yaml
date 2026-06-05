@@ -1,0 +1,5 @@
+key: controlerrorlog.last_lines
+value: '15'
+xtype: numberfield
+namespace: controlerrorlog
+area: controlerrorlog.main

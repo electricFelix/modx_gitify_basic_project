@@ -1,0 +1,5 @@
+key: controlerrorlog.format_output
+value: '1'
+xtype: combo-boolean
+namespace: controlerrorlog
+area: controlerrorlog.main

@@ -1,0 +1,4 @@
+key: mail_inlinestyle_inline
+value: '1'
+xtype: combo-boolean
+area: mail

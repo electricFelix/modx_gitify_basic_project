@@ -1,0 +1,5 @@
+key: seosuite.sitemap.dependent_ultimateparent
+value: '0'
+xtype: combo-boolean
+namespace: seosuite
+area: seosuite_sitemap

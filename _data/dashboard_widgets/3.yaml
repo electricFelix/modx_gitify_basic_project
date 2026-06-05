@@ -1,0 +1,10 @@
+id: 3
+name: w_whosonline
+description: w_whosonline_desc
+type: file
+content: '[[++manager_path]]controllers/default/dashboard/widget.grid-online.php'
+properties: null
+namespace: core
+size: one-third
+name_trans: w_whosonline
+description_trans: w_whosonline_desc

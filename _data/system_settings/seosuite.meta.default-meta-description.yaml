@@ -1,0 +1,4 @@
+key: seosuite.meta.default_meta_description
+value: '[[+description]]'
+namespace: seosuite
+area: seosuite_tab_meta

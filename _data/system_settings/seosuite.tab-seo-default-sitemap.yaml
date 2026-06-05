@@ -1,0 +1,5 @@
+key: seosuite.tab_seo_default_sitemap
+value: '1'
+xtype: combo-boolean
+namespace: seosuite
+area: seosuite

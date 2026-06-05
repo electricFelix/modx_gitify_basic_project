@@ -1,0 +1,4 @@
+key: tinymcerte.toolbar1
+value: 'undo redo | styleselect | bold italic underline | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | modxlink | image'
+namespace: tinymcerte
+area: tinymcerte.toolbar

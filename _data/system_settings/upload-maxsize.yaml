@@ -1,0 +1,4 @@
+key: upload_maxsize
+value: '209715200'
+xtype: numberfield
+area: file
