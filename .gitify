@@ -1,0 +1,126 @@
+data_directory: _data/
+backup_directory: _backup/
+data:
+    template_variables:
+        class: modTemplateVar
+        primary: name
+    template_variables_access:
+        class: modTemplateVarTemplate
+        primary:
+            - tmplvarid
+            - templateid
+    content:
+        type: content
+        exclude_keys:
+            - editedby
+            - editedon
+        truncate_on_force:
+            - modTemplateVarResource
+    categories:
+        class: modCategory
+        primary: category
+        truncate_on_force:
+            - modCategoryClosure
+    templates:
+        class: modTemplate
+        primary: templatename
+        extension: .html
+    chunks:
+        class: modChunk
+        primary: name
+        extension: .html
+    snippets:
+        class: modSnippet
+        primary: name
+        extension: .php
+    plugins:
+        class: modPlugin
+        primary: name
+        extension: .php
+    plugin_events:
+        class: modPluginEvent
+        primary:
+            - pluginid
+            - event
+    events:
+        class: modEvent
+        primary: name
+    namespaces:
+        class: modNamespace
+        primary: name
+    system_settings:
+        class: modSystemSetting
+        primary: key
+        exclude_keys:
+            - editedon
+    extension_packages:
+        class: modExtensionPackage
+        primary: namespace
+        exclude_keys:
+            - created_at
+            - updated_at
+    fc_sets:
+        class: modFormCustomizationSet
+        primary: id
+    fc_profiles:
+        class: modFormCustomizationProfile
+        primary: id
+    fc_profile_usergroups:
+        class: modFormCustomizationProfileUserGroup
+        primary:
+            - usergroup
+            - profile
+    fc_action_dom:
+        class: modActionDom
+        primary:
+            - set
+            - name
+    mediasources:
+        class: MODX\Revolution\Sources\modMediaSource
+        primary: id
+    mediasource_elements:
+        class: MODX\Revolution\Sources\modMediaSourceElement
+        primary:
+            - source
+            - object_class
+            - object
+            - context_key
+    dashboards:
+        class: modDashboard
+        primary:
+            - id
+            - name
+    dashboard_widgets:
+        class: modDashboardWidget
+        primary: id
+    dashboard_widget_placement:
+        class: modDashboardWidgetPlacement
+        primary:
+            - dashboard
+            - widget
+packages:
+    modx.com:
+        service_url: 'https://rest.modx.com/extras/'
+        description: 'The official MODX transport provider for 3rd party components.'
+        packages:
+            - ace-1.9.8-pl
+            - ckeditor-1.4.7-ce
+            - clientconfig-2.5.0-pl
+            - collections-4.1.1-pl
+            - console-2.2.3-pl
+            - controlerrorlog-1.4.6-pl
+            - formit-5.2.3-pl
+            - migx-3.0.2-beta1
+            - minifyx-2.0.6-pl
+            - pdotools-3.0.3-pl
+            - pthumb-2.3.3-pl
+            - resizer-1.0.2-beta
+            - seosuite-3.2.1-pl
+            - tinymcerte-3.1.7-pl
+            - translit-1.0.0-beta
+            - versionx-3.3.0-pl
+    modstore.pro:
+        service_url: 'https://modstore.pro/extras/'
+        username: aaa1987@inbox.ru
+        packages:
+            - emailqueue-1.2.0-beta
