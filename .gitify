@@ -119,8 +119,4 @@ packages:
             - tinymcerte-3.1.7-pl
             - translit-1.0.0-beta
             - versionx-3.3.0-pl
-    modstore.pro:
-        service_url: 'https://modstore.pro/extras/'
-        username: aaa1987@inbox.ru
-        packages:
-            - emailqueue-1.2.0-beta
+
